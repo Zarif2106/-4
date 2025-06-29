@@ -1,4 +1,4 @@
-// components/CardList/CardList.tsx
+
 import React, { useState, useEffect } from 'react';
 import Card from '../PortalProducts/PortalProducts';
 import styles from './Cardlict.module.css';
